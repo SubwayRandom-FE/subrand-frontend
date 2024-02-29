@@ -1,0 +1,12 @@
+.roulette-button {
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 8px;
+  border-style: groove;
+  padding: 4px;
+}
+
+.roulette {
+  height: 60vw;
+  object-position: 10px;
+}
